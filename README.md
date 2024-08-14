@@ -6,6 +6,12 @@ Este projeto é uma aplicação web desenvolvida com Spring Boot e JPA/Hibernate
 O objetivo principal é fornecer uma solução que permita a criação, recuperação, atualização e exclusão (CRUD) de usuários, pedidos, produtos e categorias, 
 utilizando um banco de dados em memória para testes.
 
+# Modelo conceitual
+![Domain model](https://github.com/user-attachments/assets/45449ac4-9b2c-4bcf-a20f-ad8bfb4514fb)
+![Domain Instance](https://github.com/user-attachments/assets/94b59c0c-1f21-4328-b492-896519e0c124)
+![Logical layers](https://github.com/user-attachments/assets/c6468f76-8fa5-454d-b5c7-2ebbcaa3be35)
+
+
 # Tecnologias utilizadas
 ## Back end
 - Spring Boot: Framework para desenvolvimento rápido de aplicações Java, que facilita a configuração e o gerenciamento de dependências.
