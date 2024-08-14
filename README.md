@@ -94,7 +94,13 @@ Exemplo de JSON para atualizar um usuário:
 
 ``````
 
+# Agradecimentos
+Gostaria de expressar meus sinceros agradecimentos ao [Prof. Dr. Nelio Alves](https://github.com/acenelio), que me guiou durante todo o processo de desenvolvimento deste projeto. 
+Sua paciência, conhecimento e dedicação foram fundamentais para que eu pudesse aplicar os conceitos aprendidos e concluir este projeto com sucesso.
 
+# Autor
 
+ Pedro Miranda - pLogicador
 
+[LinkedIn](https://www.linkedin.com/in/pedroesm/)
 
