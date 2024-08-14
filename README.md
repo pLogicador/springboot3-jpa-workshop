@@ -20,7 +20,7 @@ utilizando um banco de dados em memória para testes.
 - JPA: API para a persistência de dados que permite a manipulação de entidades Java em um banco de dados relacional.
 - Spring Web: Módulo do Spring que facilita o desenvolvimento de aplicações web e APIs RESTful.
 
-
+# Como executar o projeto
 ## Pré-requisitos: Java 17, Maven, MongoDB, Postman, H2
 
 ## Funcionalidades Principais
